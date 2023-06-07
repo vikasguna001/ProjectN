@@ -1,0 +1,20 @@
+.navbar {
+  background-color: #000000;
+  display: flex;
+  padding-top: 30px;
+}
+
+.nav-image {
+  display: flex;
+  margin: auto;
+  justify-items: center;
+  height: 35px;
+}
+
+.header-title {
+  color: white;
+  font-size: xx-large;
+  font-weight: bold;
+  border-bottom: 5px solid #f60;
+  line-height: 4px;
+}
